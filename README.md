@@ -73,7 +73,7 @@
 - [ ] Postgraduate Diploma in IT Management (in progress)
 - [ ] AWS Certified Cloud Practitioner (CLF-C02)
 - [ ] Ship KasiFile to its first pilot practices
-- [ ] Publish my home lab projects on GitHub
+      
 
 ---
 
